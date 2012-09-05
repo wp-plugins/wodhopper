@@ -22,13 +22,17 @@ WordPress admin portal. This will allow you to things such as:
 * View and edit your class schedule, as well as have it embedded into a post with RSVP links (Coming Soon)
 * Modify and configure the lead generation contact form (Coming Soon)
 
+Note: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you
+are not an affiliate with WODHOPPER this widget will not display properly.
+
 Interested in [WODHOPPER](http://wodhopper.com)? [Contact Us for a demo](mailto:betarequest@wodhopper.com).
 
 == Installation ==
 
 1. Click 'Add New' from your WordPress Plugin admin menu and search for 'wodhopper'. Or, upload the wodhopper plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Configure all wodhopper settings via the Settings / WODHOPPER page
+3. NOTE: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you
+are not an affiliate with WODHOPPER this widget will not display properly.
 
 == External Links ==
 
