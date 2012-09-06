@@ -4,11 +4,11 @@ Donate link: http://wodhopper.com
 Tags: crossfit,wod,scoreboard,embed,affiliate
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Allows WODHOPPER embedding,configuration and management from your WordPress admin blog.
+Easily embed, manage and configure WODHOPPER into WordPress.
 
 == Description ==
 
@@ -29,10 +29,10 @@ Interested in [WODHOPPER](http://wodhopper.com)? [Contact Us for a demo](mailto:
 
 == Installation ==
 
-1. Click 'Add New' from your WordPress Plugin admin menu and search for 'wodhopper'. Or, upload the wodhopper plugin to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. NOTE: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you
+1.NOTE: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you
 are not an affiliate with WODHOPPER this widget will not display properly.
+2. Click 'Add New' from your WordPress Plugin admin menu and search for 'wodhopper'. Or, upload the wodhopper plugin to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == External Links ==
 
