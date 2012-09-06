@@ -29,8 +29,7 @@ Interested in [WODHOPPER](http://wodhopper.com)? [Contact Us for a demo](mailto:
 
 == Installation ==
 
-1.NOTE: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you
-are not an affiliate with WODHOPPER this widget will not display properly.
+1. NOTE: The WODHOPPER plugin will only function properly for current WODHOPPER clients. If you are not an affiliate with WODHOPPER this widget will not display properly.
 2. Click 'Add New' from your WordPress Plugin admin menu and search for 'wodhopper'. Or, upload the wodhopper plugin to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
@@ -44,7 +43,13 @@ By installing this plugin, you give WODHOPPER permission to embed these external
 = 1.0.1 =
 * Initial upload.
 
+= 1.0.2 =
+* Testing the upgrade process and editing the readme file.
+
 == Upgrade Notice ==
 
 = 1.0.1 =
 Initial release
+
+= 1.0.2 =
+* Testing the upgrade process and editing the readme file.
