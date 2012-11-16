@@ -4,7 +4,7 @@ Donate link: http://wodhopper.com
 Tags: crossfit,wod,scoreboard,embed,affiliate
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,6 +46,9 @@ By installing this plugin, you give WODHOPPER permission to embed these external
 = 1.0.2 =
 * Testing the upgrade process and editing the readme file.
 
+= 1.0.3 =
+* Adding in the WODHOPPER settings screen, and the ability to auto-embed or manually-embed a Scoreboard button into a post.
+
 == Upgrade Notice ==
 
 = 1.0.1 =
@@ -53,3 +56,5 @@ Initial release
 
 = 1.0.2 =
 * Testing the upgrade process and editing the readme file.
+= 1.0.3 =
+* This is a new feature upgrade and should be upgraded and used right away. This will allow you to post scoreboard buttons into your blog posts manually or automatically.
