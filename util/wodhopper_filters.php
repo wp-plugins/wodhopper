@@ -33,13 +33,13 @@ function save_post_add_wodhopper_scoreboard($data, $postarr) {
 	$shouldAppend = false;
 	$options = get_option('wodhopper_options');
 	$buttonPlacement = $options['scoreboard_placement'];
-	$placementValue = $buttonPlacement.substr(strpos($buttonPlacement,"_")+1);
+	$placementValue = substr($buttonPlacement,strpos($buttonPlacement,"_")+1);
 	$wodDateSelection = $options['scoreboard_date_location'];
 	$postType = $options['scoreboard_post_type'];
 	$autoPost = $options['scoreboard_auto_insert'];
-	$categoryArray = get_the_category();
+	$categoryArray = get_the_category($postarr['ID']);
 	
-	if($autoPost == 1 && ($data['post_status'] === 'publish' || $data['post_status'] === 'future') && $data['post_type'] === 'post' ){
+	if($autoPost == 1 && $data['post_type'] === 'post' ){
 		if($postType == 'all'){
 			$shouldAppend = true;
 		}

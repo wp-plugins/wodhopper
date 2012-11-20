@@ -3,7 +3,7 @@
 Plugin Name: WODHOPPER
 Plugin URI: http://wodhopper.com
 Description: Allows WODHOPPER embedding,configuration and management from your WordPress admin blog.
-Version: 1.0.4
+Version: 1.0.5
 Author: WODHOPPER
 Author URI: http://wodhopper.com
 License: GPL2

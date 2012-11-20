@@ -4,7 +4,7 @@ Donate link: http://wodhopper.com
 Tags: crossfit,wod,scoreboard,embed,affiliate
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,9 @@ By installing this plugin, you give WODHOPPER permission to embed these external
 = 1.0.4 =
 * Adding in WODHOPPER scoreboard button styling changes.
 
+= 1.0.5 =
+* Bug Fix for the auto scoreboard insert feature to be based on category
+
 == Upgrade Notice ==
 
 = 1.0.1 =
@@ -65,3 +68,6 @@ Initial release
 
 = 1.0.4 =
 * This is a styling patch upgrade for the WODHOPPER scoreboard buttons.
+
+= 1.0.5 =
+* Bug Fix for the auto scoreboard insert feature.
