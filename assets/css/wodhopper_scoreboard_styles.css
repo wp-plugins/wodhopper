@@ -1,0 +1,42 @@
+/*
+	wodhopper_wordpress_style.css. This file is responsible for holding the classes and IDs
+	used in wodhopper plugin and their according styles.
+	Author: WODHOPPER
+	Date: 2012
+*/
+.wodhopper_scoreboard {
+	font-size: 14px;
+	padding-left: 40px;
+	background-image: url(images/wodhopper_scoreboard_image.png);
+	background-repeat: no-repeat;
+	background-position: 4% 50%;
+	background-color: #EDEDED;
+	border: 1px solid #AAA;
+	box-shadow: 0pt -1px 0pt rgba(0, 0, 0, 0.075), 0pt 1px 0pt rgba(255, 255, 255, 0.3), 0pt 1px 2px rgba(0, 0, 0, 0.1);
+	color: #333;
+	text-shadow: none;
+	border-radius: 4px;
+}
+
+
+.wodhopper_scoreboard:hover{
+	font-size: 14px;
+	padding-left: 40px;
+	background-image: url(images/wodhopper_scoreboard_image.png);
+	background-repeat: no-repeat;
+	background-position: 4% 50%;
+	background-color: #DEDEDE;
+	border: 1px solid #888;
+	box-shadow: 0pt -1px 0pt rgba(0, 0, 0, 0.075) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.3) inset, 0pt 1px 2px rgba(0, 0, 0, 0.1);
+	color: #333;
+	text-shadow: none;
+	border-radius: 4px;
+}
+
+.whsb_right {
+	float: right;
+}
+
+.whsb_left {
+	float: left;
+}
