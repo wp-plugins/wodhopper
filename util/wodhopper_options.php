@@ -22,7 +22,7 @@ if ( is_admin() ){ // admin actions
 */
 function wodhopper_create_menu() {
 	add_options_page('WODHOPPER Plugin Settings', 'WODHOPPER', 'administrator', 
-	dirname(__FILE__).'../wodhopper.php', 'wodhopper_settings_page');
+	'wodhopper', 'wodhopper_settings_page');
 }
 
 /*
@@ -64,7 +64,7 @@ function wodhopper_admin_init() {
 function wodhopper_settings_page() {
 ?>
 <div id="theme-options-wrap">
-<div><img src="https://s3.amazonaws.com/app.wodhopper.com/images/wodhopper_bannerProto.png" style="width:650px;"></img></div>
+<div><img src="https://s3.amazonaws.com/app.wodhopper.com/images/wodhopper_wordpressBanner.png" style="width:650px;"></img></div>
 <br/>
 <div class="icon32" id="icon-options-general"></div>
 <h2>WODHOPPER</h2>

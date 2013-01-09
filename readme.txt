@@ -3,8 +3,8 @@ Contributors: wodhopper
 Donate link: http://wodhopper.com
 Tags: crossfit,wod,scoreboard,embed,affiliate
 Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 1.0.5
+Tested up to: 3.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,3 +71,6 @@ Initial release
 
 = 1.0.5 =
 * Bug Fix for the auto scoreboard insert feature.
+
+= 1.0.6 =
+* Bug Fix for the image size on the settings page as well as the path to the settings page
